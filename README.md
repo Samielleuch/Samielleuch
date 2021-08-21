@@ -3,8 +3,8 @@
 As someone who is always passionate for learning more about tech and life. Sami Elleuch grew up admiring systems architecture and highly available designs . From those humble beginnings, he has evolved into a Cloud Infrastracture/ Devops Engineer who loves working with cutting edge tools and technologies, experimenting design×development and keen to share his experience with people around the world. He, like any developer who has burnt the midnight oil, knows how to make a mean cup of coffee ☕️ ! 
 
   * 👨🏻‍💻 &nbsp; Currently an Intern at **Wise Corp** as an infrastracture Engineer .
-  * 💬 &nbsp; People ask him about `Kubernetes , Docker , Etcd , Linux , Node / Express, VueJs, MongoDB, Java , etc`.
-  * 📖 &nbsp; Learning about `Vagrant , systems architecture`
+  * 💬 &nbsp; People ask him about `Kubernetes , Helm , Terraform , Docker , Etcd , Linux , Node / Express, VueJs, MongoDB, Java , etc`.
+  * 📖 &nbsp; Learning about `Aws , systems architecture`
   * 🤝 &nbsp; Contribute to Open Source Projects
 
 <br />
